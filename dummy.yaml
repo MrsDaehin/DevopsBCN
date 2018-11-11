@@ -1,5 +1,6 @@
 execution:
 - scenario: dummy
+  hold-for: 1m
 
 scenarios:
   dummy:
