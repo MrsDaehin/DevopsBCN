@@ -1,5 +1,6 @@
 execution:
 - concurrency: 100
+  executor: gatling
   ramp-up: 1m
   hold-for: 5m
   scenario: quick-test
